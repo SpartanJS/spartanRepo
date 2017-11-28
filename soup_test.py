@@ -18,12 +18,12 @@ tombstone_container=seven_day.find_all(class_="tombstone-container")
 #print(tombstone_container)
 #print(type (tombstone_container))
 #print(tombstone_container[0])
-
-period=tombstone_container[0].find(class_="period-name").get_text()
-description=tombstone_container[0].find(class_="short-desc").get_text()
-temperature=tombstone_container[0].find(class_="temp temp-high").get_text()
-img=tombstone_container[0].find("img")
-desc=img['title']
+#
+# period=tombstone_container[0].find(class_="period-name").get_text()
+# description=tombstone_container[0].find(class_="short-desc").get_text()
+# temperature=tombstone_container[0].find(class_="temp temp-high").get_text()
+# img=tombstone_container[0].find("img")
+# desc=img['title']
 
 period_tag=seven_day.select(".tombstone-container .period-name")
 periods=[pt.get_text() for pt in period_tag ]
@@ -38,5 +38,6 @@ weather = pd.DataFrame({
         "temp": temps,
         "desc":descs
     })
-    a
 print(weather)
+
+weather.to_csv('soup_test.csv', sep=';',float_format=',')

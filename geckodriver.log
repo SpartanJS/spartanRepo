@@ -1,0 +1,155 @@
+1511831735848	geckodriver	INFO	geckodriver 0.19.1
+1511831735853	geckodriver	INFO	Listening on 127.0.0.1:53904
+1511831737899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofile.VFRRYyF8A5OP"
+1511831738343	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Alex\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511831739512	Marionette	INFO	Listening on port 53916
+1511831739906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511831739946	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\Alex\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Alex\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Alex\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Alex\AppData\Local\openvr\openvrpaths.vrpath
+spros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831746768	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1511831746954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1511831747111	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+Unable to read VR Path Registry from C:\Users\Alex\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Alex\AppData\Local\openvr\openvrpaths.vrpath
+[Child 532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Alex\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511831770386	geckodriver	INFO	geckodriver 0.19.1
+1511831770392	geckodriver	INFO	Listening on 127.0.0.1:54127
+1511831772443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofile.hHCTcM1Xm6wC"
+1511831772861	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Alex\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511831774038	Marionette	INFO	Listening on port 54135
+1511831774468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511831774508	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\Alex\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Alex\AppData\Local\openvr\openvrpaths.vrpath
+event "pagehide" for "about:blank"
+1511831779459	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511831780403	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831781201	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1511831781435	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1511831781611	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831810263	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831810813	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831810814	Marionette	DEBUG	Received DOM event "unload" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831811149	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831811345	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1511831811346	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1511831811346	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1511831811346	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1511831811346	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1511831811346	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1511831811347	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1511831811347	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967357"
+1511831811347	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967355"
+1511831811347	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1511831811347	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1511831811347	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511831811348	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511831811348	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1511831811348	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1511831811348	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1511831811348	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511831811348	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511831811348	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511831811348	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1511831811931	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967377"
+1511831812072	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967386"
+1511831815028	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831829299	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831829785	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831829786	Marionette	DEBUG	Received DOM event "unload" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831830103	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831830309	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967379"
+1511831830309	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967361"
+1511831830309	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967374"
+1511831830310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1511831830310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967383"
+1511831830310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967365"
+1511831830310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967363"
+1511831830310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967366"
+1511831830311	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967367"
+1511831830843	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967405"
+1511831831106	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967417"
+1511831832741	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831833945	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831834505	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831834506	Marionette	DEBUG	Received DOM event "unload" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831834877	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967408"
+1511831834877	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967391"
+1511831834878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967404"
+1511831834878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967396"
+1511831834878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967422"
+1511831834878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967423"
+1511831834878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967424"
+1511831834878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967425"
+1511831834879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967426"
+1511831834879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967420"
+1511831834879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967412"
+1511831834879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967415"
+1511831834879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967397"
+1511831834879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967392"
+1511831834879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967395"
+1511831834879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967398"
+1511831834926	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831835774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967454"
+1511831836685	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967482"
+1511831837124	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831847843	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831848381	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831848382	Marionette	DEBUG	Received DOM event "unload" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831848694	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511831848889	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967466"
+1511831848889	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967495"
+1511831848889	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967461"
+1511831848890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967462"
+1511831848890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967491"
+1511831848890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967439"
+1511831848890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967452"
+1511831848890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967444"
+1511831848890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967458"
+1511831848891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967445"
+1511831848891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967441"
+1511831848891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967443"
+1511831848891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967446"
+1511831848891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967460"
+1511831848891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967468"
+1511831848891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967469"
+1511831848891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967470"
+1511831848892	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967471"
+1511831848892	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967472"
+1511831848892	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967473"
+1511831849422	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967515"
+1511831849575	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967523"
+1511831851069	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=magasins%20bio&ou=Paris%20%2875%29&idOu=L07505600&page=1&contexte=Gx3GObmd2gPGhZLzdMUmfQxISMRndNFsTX8Pg%2Byl0iE%3D&proximite=0&tri=PERTINENCE-ASC&quoiQuiInterprete=magasins%20bio"
+1511832168651	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
